@@ -13,4 +13,4 @@ Requirements :
 
 <b>Note :<b>
 <br>
--Make sure to have Python and VLC installed before running the script
+- Make sure to have Python and VLC installed before running the script
